@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\priyasurya\\source\\repos\\statehospital\\statehospital\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\priyasurya\\source\\repos\\statehospital\\statehospital\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\priyasurya\\source\\repos\\statehospital\\statehospital\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\priyasurya\\source\\repos\\statehospital\\statehospital\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\priyasurya\\source\\repos\\statehospital\\statehospital\\models\\doctormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\models\\doctormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6677EDE0-F31E-4749-8BC0-35F5BC2C11F6}|StateHospital.Common\\StateHospital.Common.csproj|c:\\users\\priyasurya\\source\\repos\\statehospital\\statehospital.common\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6677EDE0-F31E-4749-8BC0-35F5BC2C11F6}|StateHospital.Common\\StateHospital.Common.csproj|solutionrelative:statehospital.common\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\priyasurya\\source\\repos\\statehospital\\statehospital\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720D8C7A-930D-4D12-9982-DD33C488B71F}|StateHospital.Services\\StateHospital.Services.csproj|c:\\users\\priyasurya\\source\\repos\\statehospital\\statehospital.services\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720D8C7A-930D-4D12-9982-DD33C488B71F}|StateHospital.Services\\StateHospital.Services.csproj|solutionrelative:statehospital.services\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\priyasurya\\source\\repos\\statehospital\\statehospital\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\priyasurya\\source\\repos\\statehospital\\statehospital\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\priyasurya\\source\\repos\\statehospital\\statehospital\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\priyasurya\\source\\repos\\statehospital\\statehospital\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|SolutionItems{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\ReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|SolutionItems{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:ReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\priyasurya\\source\\repos\\statehospital\\statehospital\\models\\appointmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\models\\appointmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129633A3-E0B1-412D-AC35-676D2F6118CE}|StateHospital.Data\\StateHospital.Data.csproj|c:\\users\\priyasurya\\source\\repos\\statehospital\\statehospital.data\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129633A3-E0B1-412D-AC35-676D2F6118CE}|StateHospital.Data\\StateHospital.Data.csproj|solutionrelative:statehospital.data\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\priyasurya\\source\\repos\\statehospital\\statehospital\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\priyasurya\\source\\repos\\statehospital\\statehospital\\models\\bookappointmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\models\\bookappointmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "StateHospital\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "StateHospital\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T14:18:44.598Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "StateHospital\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "StateHospital\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAADwv4MAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:40:34.694Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "StateHospital\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "StateHospital\\Views\\Doctor\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T21:59:06.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital.Common\\Gender.cs",
+              "RelativeDocumentMoniker": "StateHospital.Common\\Gender.cs",
+              "ToolTip": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital.Common\\Gender.cs",
+              "RelativeToolTip": "StateHospital.Common\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T21:41:13.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital\\Views\\Patient\\Index.cshtml",
+              "RelativeDocumentMoniker": "StateHospital\\Views\\Patient\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital\\Views\\Patient\\Index.cshtml",
+              "RelativeToolTip": "StateHospital\\Views\\Patient\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T21:21:00.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorModel.cs",
+              "DocumentMoniker": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital\\Models\\DoctorModel.cs",
+              "RelativeDocumentMoniker": "StateHospital\\Models\\DoctorModel.cs",
+              "ToolTip": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital\\Models\\DoctorModel.cs",
+              "RelativeToolTip": "StateHospital\\Models\\DoctorModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:08:19.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "StateHospital\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "StateHospital\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T14:57:11.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital.Services\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "StateHospital.Services\\Services\\PatientService.cs",
+              "ToolTip": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital.Services\\Services\\PatientService.cs",
+              "RelativeToolTip": "StateHospital.Services\\Services\\PatientService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAawDEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:35:37.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StateHospital\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StateHospital\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T21:16:18.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital\\AutoMapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "StateHospital\\AutoMapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital\\AutoMapper\\MappingProfile.cs",
+              "RelativeToolTip": "StateHospital\\AutoMapper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:25:50.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StateHospital\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StateHospital\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:05:21.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\ReadMe.txt",
+              "RelativeDocumentMoniker": "ReadMe.txt",
+              "ToolTip": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\ReadMe.txt",
+              "RelativeToolTip": "ReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-15T21:04:37.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital\\appsettings.json",
+              "RelativeDocumentMoniker": "StateHospital\\appsettings.json",
+              "ToolTip": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital\\appsettings.json",
+              "RelativeToolTip": "StateHospital\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T21:13:23.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppointmentModel.cs",
+              "DocumentMoniker": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital\\Models\\AppointmentModel.cs",
+              "RelativeDocumentMoniker": "StateHospital\\Models\\AppointmentModel.cs",
+              "ToolTip": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital\\Models\\AppointmentModel.cs",
+              "RelativeToolTip": "StateHospital\\Models\\AppointmentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:49:12.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital.Data\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "StateHospital.Data\\Entities\\Doctor.cs",
+              "ToolTip": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital.Data\\Entities\\Doctor.cs",
+              "RelativeToolTip": "StateHospital.Data\\Entities\\Doctor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:27:04.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital\\Views\\Appointment\\Index.cshtml",
+              "RelativeDocumentMoniker": "StateHospital\\Views\\Appointment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital\\Views\\Appointment\\Index.cshtml",
+              "RelativeToolTip": "StateHospital\\Views\\Appointment\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBMAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T18:07:27.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookAppointmentModel.cs",
+              "DocumentMoniker": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital\\Models\\BookAppointmentModel.cs",
+              "RelativeDocumentMoniker": "StateHospital\\Models\\BookAppointmentModel.cs",
+              "ToolTip": "C:\\Users\\PriyaSurya\\Source\\Repos\\StateHospital\\StateHospital\\Models\\BookAppointmentModel.cs",
+              "RelativeToolTip": "StateHospital\\Models\\BookAppointmentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:51:41.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

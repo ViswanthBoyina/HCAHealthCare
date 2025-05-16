@@ -1,0 +1,21 @@
+﻿@model StateHospital.Models.PatientModel
+
+@{
+    ViewData["Title"] = "Delete Patient";
+}
+
+<div class="container mt-5">
+    <div class="alert alert-danger shadow-sm">
+        <h4 class="alert-heading">Are you sure?</h4>
+        <p>You are about to delete the patient <strong>@Model.Name</strong>. This action cannot be undone.</p>
+        <form asp-action="Delete" method="post">
+            <input type="hidden" asp-for="Id" />
+            <div class="d-flex justify-content-between">
+                <button type="submit" class="btn btn-danger">
+                    <i class="bi bi-trash"></i> Delete
+                </button>
+                <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+            </div>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,26 @@
+﻿@model IEnumerable<StateHospital.Presentation.Models.DoctorModel>
+
+@{
+    ViewData["Title"] = "Book Appointment";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">Available Doctors</h2>
+    <div class="row">
+        @foreach (var doctor in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card h-100 shadow-sm">
+                    <div class="card-body">
+                        <h5 class="card-title">@doctor.Name</h5>
+                        <p class="card-text">
+                            <strong>Speciality:</strong> @doctor.Specialization <br />
+                            <strong>City:</strong> @doctor.City
+                        </p>
+                        <a asp-action="BookAppointment" asp-route-doctorId="@doctor.DoctorId" class="btn btn-primary">Book Appointment</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
