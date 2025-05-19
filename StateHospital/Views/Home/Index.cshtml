@@ -1,0 +1,61 @@
+﻿@{
+    ViewData["Title"] = "Patient Appointment Booking";
+}
+
+<div class="container my-5">
+    <div class="text-center mb-5">
+        <h1 class="display-4 fw-bold">Welcome to HCA HealthCare</h1>
+        <p class="lead text-secondary">
+            Efficiently manage patients, doctors, and appointments all in one place.
+        </p>
+        <hr class="my-4" />
+    </div>
+
+    <div class="row g-4">
+        <div class="col-md-4">
+            <div class="card shadow-sm border-primary h-100">
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title text-primary">Patient Profiles</h5>
+                    <p class="card-text flex-grow-1">
+                        View and manage patient information including medical history, contact details, and diagnosis.
+                    </p>
+                    <a asp-controller="Patient" asp-action="Index" class="btn btn-outline-primary mt-auto">
+                        View Patients
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card shadow-sm border-success h-100">
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title text-success">Doctor Profiles</h5>
+                    <p class="card-text flex-grow-1">
+                        Manage doctor profiles, specializations, schedules, and contact information.
+                    </p>
+                    <a asp-controller="Doctor" asp-action="Index" class="btn btn-outline-success mt-auto">
+                        View Doctors
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card shadow-sm border-info h-100">
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title text-info">Appointments</h5>
+                    <p class="card-text flex-grow-1">
+                        Schedule, view, and manage patient appointments with doctors efficiently.
+                    </p>
+                    <a asp-controller="Appointment" asp-action="Index" class="btn btn-outline-info mt-auto">
+                        View Appointments
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="mt-5 text-center text-muted small">
+        &copy; @DateTime.Now.Year HCA Healthcare
+    </div>
+</div>

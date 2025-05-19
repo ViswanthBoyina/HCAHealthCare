@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\StateHospital",
+    "\\StateHospital.Data",
+    "\\StateHospital.Data\\Entities",
+    "\\StateHospital\\Controllers",
+    "\\StateHospital\\Models",
+    "\\StateHospital\\Views\\Doctor"
+  ],
+  "SelectedNode": "\\StateHospital\\Models\\AppointmentModel.cs",
+  "PreviewInSolutionExplorer": false
+}

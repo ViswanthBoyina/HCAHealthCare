@@ -1,0 +1,42 @@
+﻿@model IEnumerable<StateHospital.Presentation.Models.AppointmentModel>
+@{
+    ViewData["Title"] = "Booked Appointments";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">All Booked Appointments</h2>
+
+    <div class="row row-cols-1 g-3">
+        @foreach (var appointment in Model)
+        {
+            <div class="col">
+                <div class="card shadow-sm">
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Appointment #@appointment.Id</h5>
+                        <p class="card-text mb-1">
+                            <strong>Doctor:</strong> @appointment.DoctorName
+                        </p>
+                        <p class="card-text mb-1">
+                            <strong>Slot:</strong> @appointment.DoctorSpecialization
+                        </p>
+                        <p class="card-text mb-1">
+                            <strong>Patient:</strong> @appointment.PatientName
+                        </p>
+                        <p class="card-text mb-1">
+                            <strong>Slot:</strong> @appointment.SlotTime
+                        </p>
+                        <p class="card-text mb-1">
+                            <strong>Booked Date:</strong> @appointment.BookedDate.ToShortDateString()
+                        </p>
+                        <p class="card-text">
+                            <strong>Status:</strong>
+                            <span class="badge @(appointment.Status ? "bg-success" : "bg-danger")">
+                                @(appointment.Status ? "Booked" : "Not Booked")
+                            </span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

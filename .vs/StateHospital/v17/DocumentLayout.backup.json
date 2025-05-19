@@ -1,0 +1,514 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\viswa\\documents\\hca\\statehospital\\statehospital\\statehospital\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\viswa\\documents\\hca\\statehospital\\statehospital\\statehospital\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\viswa\\documents\\hca\\statehospital\\statehospital\\statehospital\\models\\doctormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\models\\doctormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\viswa\\documents\\hca\\statehospital\\statehospital\\statehospital\\models\\patientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\models\\patientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\viswa\\documents\\hca\\statehospital\\statehospital\\statehospital\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\viswa\\documents\\hca\\statehospital\\statehospital\\statehospital\\views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6677EDE0-F31E-4749-8BC0-35F5BC2C11F6}|StateHospital.Common\\StateHospital.Common.csproj|c:\\users\\viswa\\documents\\hca\\statehospital\\statehospital\\statehospital.common\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6677EDE0-F31E-4749-8BC0-35F5BC2C11F6}|StateHospital.Common\\StateHospital.Common.csproj|solutionrelative:statehospital.common\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\viswa\\documents\\hca\\statehospital\\statehospital\\statehospital\\views\\appointment\\bookappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\views\\appointment\\bookappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\viswa\\documents\\hca\\statehospital\\statehospital\\statehospital\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\viswa\\documents\\hca\\statehospital\\statehospital\\statehospital\\views\\patient\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\views\\patient\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\viswa\\documents\\hca\\statehospital\\statehospital\\statehospital\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\viswa\\documents\\hca\\statehospital\\statehospital\\statehospital\\views\\appointment\\viewappointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\views\\appointment\\viewappointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\viswa\\documents\\hca\\statehospital\\statehospital\\statehospital\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\viswa\\documents\\hca\\statehospital\\statehospital\\statehospital\\views\\appointment\\appointmentsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\views\\appointment\\appointmentsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\viswa\\documents\\hca\\statehospital\\statehospital\\statehospital\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\viswa\\documents\\hca\\statehospital\\statehospital\\statehospital\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\viswa\\documents\\hca\\statehospital\\statehospital\\statehospital\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\viswa\\documents\\hca\\statehospital\\statehospital\\statehospital\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\viswa\\documents\\hca\\statehospital\\statehospital\\statehospital\\models\\bookappointmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\models\\bookappointmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129633A3-E0B1-412D-AC35-676D2F6118CE}|StateHospital.Data\\StateHospital.Data.csproj|c:\\users\\viswa\\documents\\hca\\statehospital\\statehospital\\statehospital.data\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129633A3-E0B1-412D-AC35-676D2F6118CE}|StateHospital.Data\\StateHospital.Data.csproj|solutionrelative:statehospital.data\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720D8C7A-930D-4D12-9982-DD33C488B71F}|StateHospital.Services\\StateHospital.Services.csproj|c:\\users\\viswa\\documents\\hca\\statehospital\\statehospital\\statehospital.services\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720D8C7A-930D-4D12-9982-DD33C488B71F}|StateHospital.Services\\StateHospital.Services.csproj|solutionrelative:statehospital.services\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\viswa\\documents\\hca\\statehospital\\statehospital\\statehospital\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\viswa\\documents\\hca\\statehospital\\statehospital\\statehospital\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720D8C7A-930D-4D12-9982-DD33C488B71F}|StateHospital.Services\\StateHospital.Services.csproj|c:\\users\\viswa\\documents\\hca\\statehospital\\statehospital\\statehospital.services\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720D8C7A-930D-4D12-9982-DD33C488B71F}|StateHospital.Services\\StateHospital.Services.csproj|solutionrelative:statehospital.services\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\viswa\\documents\\hca\\statehospital\\statehospital\\statehospital\\models\\appointmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\models\\appointmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6677EDE0-F31E-4749-8BC0-35F5BC2C11F6}|StateHospital.Common\\StateHospital.Common.csproj|c:\\users\\viswa\\documents\\hca\\statehospital\\statehospital\\statehospital.common\\doctorspecialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6677EDE0-F31E-4749-8BC0-35F5BC2C11F6}|StateHospital.Common\\StateHospital.Common.csproj|solutionrelative:statehospital.common\\doctorspecialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|SolutionItems{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\ReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|SolutionItems{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:ReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\viswa\\documents\\hca\\statehospital\\statehospital\\statehospital\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720D8C7A-930D-4D12-9982-DD33C488B71F}|StateHospital.Services\\StateHospital.Services.csproj|c:\\users\\viswa\\documents\\hca\\statehospital\\statehospital\\statehospital.services\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720D8C7A-930D-4D12-9982-DD33C488B71F}|StateHospital.Services\\StateHospital.Services.csproj|solutionrelative:statehospital.services\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|c:\\users\\viswa\\documents\\hca\\statehospital\\statehospital\\statehospital\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFE8F990-69D4-4FB8-99CE-9D5CDDEB20EC}|StateHospital\\StateHospital.Presentation.csproj|solutionrelative:statehospital\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "StateHospital\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "StateHospital\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T14:18:44.598Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "StateHospital\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "StateHospital\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:40:34.694Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookAppointment.cshtml",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Views\\Appointment\\BookAppointment.cshtml",
+              "RelativeDocumentMoniker": "StateHospital\\Views\\Appointment\\BookAppointment.cshtml",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Views\\Appointment\\BookAppointment.cshtml",
+              "RelativeToolTip": "StateHospital\\Views\\Appointment\\BookAppointment.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T11:50:21.162Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "StateHospital\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "StateHospital\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T00:16:12.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientModel.cs",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Models\\PatientModel.cs",
+              "RelativeDocumentMoniker": "StateHospital\\Models\\PatientModel.cs",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Models\\PatientModel.cs",
+              "RelativeToolTip": "StateHospital\\Models\\PatientModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:26:08.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorModel.cs",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Models\\DoctorModel.cs",
+              "RelativeDocumentMoniker": "StateHospital\\Models\\DoctorModel.cs",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Models\\DoctorModel.cs",
+              "RelativeToolTip": "StateHospital\\Models\\DoctorModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:08:19.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Views\\Doctor\\Create.cshtml",
+              "RelativeDocumentMoniker": "StateHospital\\Views\\Doctor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Views\\Doctor\\Create.cshtml*",
+              "RelativeToolTip": "StateHospital\\Views\\Doctor\\Create.cshtml*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T23:54:44.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Views\\Patient\\Create.cshtml",
+              "RelativeDocumentMoniker": "StateHospital\\Views\\Patient\\Create.cshtml",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Views\\Patient\\Create.cshtml",
+              "RelativeToolTip": "StateHospital\\Views\\Patient\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T00:02:37.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "StateHospital\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "StateHospital\\Views\\Doctor\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T21:59:06.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital.Common\\Gender.cs",
+              "RelativeDocumentMoniker": "StateHospital.Common\\Gender.cs",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital.Common\\Gender.cs",
+              "RelativeToolTip": "StateHospital.Common\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T21:41:13.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StateHospital\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StateHospital\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T21:16:18.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Views\\Patient\\Index.cshtml",
+              "RelativeDocumentMoniker": "StateHospital\\Views\\Patient\\Index.cshtml",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Views\\Patient\\Index.cshtml",
+              "RelativeToolTip": "StateHospital\\Views\\Patient\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T21:21:00.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Views\\Patient\\Update.cshtml",
+              "RelativeDocumentMoniker": "StateHospital\\Views\\Patient\\Update.cshtml",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Views\\Patient\\Update.cshtml",
+              "RelativeToolTip": "StateHospital\\Views\\Patient\\Update.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAADgvxgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T22:22:12.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Views\\Appointment\\Index.cshtml",
+              "RelativeDocumentMoniker": "StateHospital\\Views\\Appointment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Views\\Appointment\\Index.cshtml",
+              "RelativeToolTip": "StateHospital\\Views\\Appointment\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T18:07:27.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ViewAppointments.cshtml",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Views\\Appointment\\ViewAppointments.cshtml",
+              "RelativeDocumentMoniker": "StateHospital\\Views\\Appointment\\ViewAppointments.cshtml",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Views\\Appointment\\ViewAppointments.cshtml",
+              "RelativeToolTip": "StateHospital\\Views\\Appointment\\ViewAppointments.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T12:04:57.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppointmentSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Views\\Appointment\\AppointmentSuccess.cshtml",
+              "RelativeDocumentMoniker": "StateHospital\\Views\\Appointment\\AppointmentSuccess.cshtml",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Views\\Appointment\\AppointmentSuccess.cshtml",
+              "RelativeToolTip": "StateHospital\\Views\\Appointment\\AppointmentSuccess.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T12:02:17.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StateHospital\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StateHospital\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T21:02:53.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "StateHospital\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "StateHospital\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-17T21:03:10.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StateHospital\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StateHospital\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:05:21.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookAppointmentModel.cs",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Models\\BookAppointmentModel.cs",
+              "RelativeDocumentMoniker": "StateHospital\\Models\\BookAppointmentModel.cs",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Models\\BookAppointmentModel.cs",
+              "RelativeToolTip": "StateHospital\\Models\\BookAppointmentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:51:41.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital.Data\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "StateHospital.Data\\Entities\\Doctor.cs",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital.Data\\Entities\\Doctor.cs",
+              "RelativeToolTip": "StateHospital.Data\\Entities\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:27:04.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital.Services\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "StateHospital.Services\\Services\\PatientService.cs",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital.Services\\Services\\PatientService.cs",
+              "RelativeToolTip": "StateHospital.Services\\Services\\PatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:35:37.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "StateHospital\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "StateHospital\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T14:57:11.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\AutoMapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "StateHospital\\AutoMapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\AutoMapper\\MappingProfile.cs",
+              "RelativeToolTip": "StateHospital\\AutoMapper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:25:50.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital.Services\\Interfaces\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "StateHospital.Services\\Interfaces\\IAppointmentService.cs",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital.Services\\Interfaces\\IAppointmentService.cs",
+              "RelativeToolTip": "StateHospital.Services\\Interfaces\\IAppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:14:39.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppointmentModel.cs",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Models\\AppointmentModel.cs",
+              "RelativeDocumentMoniker": "StateHospital\\Models\\AppointmentModel.cs",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\Models\\AppointmentModel.cs",
+              "RelativeToolTip": "StateHospital\\Models\\AppointmentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:49:12.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DoctorSpecialization.cs",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital.Common\\DoctorSpecialization.cs",
+              "RelativeDocumentMoniker": "StateHospital.Common\\DoctorSpecialization.cs",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital.Common\\DoctorSpecialization.cs",
+              "RelativeToolTip": "StateHospital.Common\\DoctorSpecialization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:26:02.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\ReadMe.txt",
+              "RelativeDocumentMoniker": "ReadMe.txt",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\ReadMe.txt",
+              "RelativeToolTip": "ReadMe.txt",
+              "ViewState": "AgIAABgAAAAAAAAAAAD4vyoAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-15T21:04:37.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital.Services\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "StateHospital.Services\\Services\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital.Services\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "StateHospital.Services\\Services\\AppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:14:40.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\appsettings.json",
+              "RelativeDocumentMoniker": "StateHospital\\appsettings.json",
+              "ToolTip": "C:\\Users\\viswa\\Documents\\HCA\\StateHospital\\StateHospital\\StateHospital\\appsettings.json",
+              "RelativeToolTip": "StateHospital\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T21:13:23.929Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

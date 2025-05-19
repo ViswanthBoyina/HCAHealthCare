@@ -1,0 +1,36 @@
+﻿@model StateHospital.Presentation.Models.AppointmentModel
+@{
+    ViewData["Title"] = "Book Appointment";
+}
+
+<div class="container mt-4">
+    <h2>Book Appointment</h2>
+    <div class="card p-4 mt-3 shadow-sm">
+        <h5>Doctor: @ViewBag.DoctorModel.Name</h5>
+        <form asp-action="BookAppointment" method="post">
+            <input type="hidden" asp-for="DoctorId" value="@ViewBag.DoctorModel.DoctorId" />
+
+            <div class="mb-3">
+                <label asp-for="SlotId" class="form-label">Select Slot</label>
+                <select asp-for="SlotId" class="form-select" asp-items="ViewBag.Slots">
+                    <option value="">-- Select Slot --</option>
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="PatientId" class="form-label">Select Patient</label>
+                <select asp-for="PatientId" class="form-select" asp-items="ViewBag.Patients">
+                    <option value="">-- Select Patient --</option>
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="BookedDate" class="form-label">Appointment Date</label>
+                <input asp-for="BookedDate" class="form-control" type="date" min="@DateTime.Now.ToString("yyyy-MM-dd")" />
+                <span asp-validation-for="BookedDate" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-success">Submit</button>
+        </form>
+    </div>
+</div>
